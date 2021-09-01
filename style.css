@@ -8,9 +8,13 @@ body {
   }
   
   input {
-    font-size: 15px;
-    border-radius: 2px;
+    font-size: 20px;
+    border-radius: 4px;
   }
   button {
-    font-size: 1em;
+    font-size: 2em;
+  }
+  h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:xx-large;
   }
